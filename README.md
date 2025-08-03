@@ -1,1 +1,1 @@
-![Leetcode Stats]([https://leetcard.jacoblin.cool/JacobLinCool](https://leetcode.com/Sosnin-Artur))
+![Leetcode Stats]([https://leetcard.jacoblin.cool/Sosnin-Artur)
